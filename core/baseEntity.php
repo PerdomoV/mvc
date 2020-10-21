@@ -1,6 +1,6 @@
 <?php
 
-class BaseEntity{
+class baseEntity{
 	private $table, $db, $connect
 
 	public function __construct($table){
